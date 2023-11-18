@@ -75,6 +75,6 @@
    - Operators receive alerts or notifications for events such as bus delays, maintenance issues, or accidents.
    - Passengers receive real-time information on bus locations, estimated arrival times, and service disruptions.
    - Example Output: A real-time update in the platform might trigger a notification to an operator, informing them of a bus delay due to heavy traffic, or a notification to a passenger about an upcoming bus arrival.
-
+ 
 These components and example outputs demonstrate how IoT sensor data is collected and transmitted, how the platform UI provides valuable information to both operators and passengers, and how real-time updates keep all stakeholders informed about the status of public transport for better optimization.
 Repository (https://github.com/satheesh0987/IOT.git)
